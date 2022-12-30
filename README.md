@@ -19,11 +19,10 @@
 </div>
 
 **Minha História na Computação**<br/>
- Iniciei meus estudos com Programação em 2016 ao jogar em servidores multiplayer de Minecraft, ambiente à qual fui introduzido a Linguagem Java. Naquela época, os Mods e Plugins dos servidores eram escritos em java, conheci Desenvolvedores freelancers de Plugins que me apresentaram ao universo da programação e me forneceram conteúdos para estudo.
- No ano seguinte (2017) com 13 anos de idade, me aprofundei no desenvolvimento de Bots para Discord utilizando a Linguagem Python, na época, meu conhecimento era bem limitado, comecei a criar projetos privados de bots de Música, Puzzles e etc. No inicio do aprendizado, apenas alterava códigos prontos de modo a entende-los, com o tempo, estudei a linguagem e me aprofundei no estudos. Em 2022 consegui uma vaga na UFC em Engenharia da Computação e estou no ramo da computação até hoje.
+ - Iniciei meus estudos com Programação em 2016 ao jogar em servidores multiplayer de Minecraft, ambiente à qual fui introduzido a Linguagem Java. Naquela época, os Mods e Plugins dos servidores eram escritos em java, conheci Desenvolvedores freelancers de Plugins que me apresentaram ao universo da programação e me forneceram conteúdos para estudo. No ano seguinte (2017) com 13 anos de idade, me aprofundei no desenvolvimento de Bots para Discord utilizando a Linguagem Python, na época, meu conhecimento era bem limitado, comecei a criar projetos privados de bots de Música, Puzzles e etc. No inicio do aprendizado, apenas alterava códigos prontos de modo a entende-los, com o tempo, estudei a linguagem e me aprofundei no estudos. Em 2022 consegui uma vaga na UFC em Engenharia da Computação e estou no ramo da computação até hoje.
 
 **Conteúdos do GitHub**<br/>
-Atualmente, utilizo meu repositório do GitHub para armazenar projetos feitos nas disciplinas da universidade. Pretendo armazenar projetos pessoais em breve, como Bots para Discord, Sites, Scripts de Automação, etc..
+- Atualmente, utilizo meu repositório do GitHub para armazenar projetos feitos nas disciplinas da universidade. Pretendo armazenar projetos pessoais em breve, como Bots para Discord, Sites, Scripts de Automação, etc..
 
 **Deseja entrar em contato comigo? :D**<br/>
 <div>
