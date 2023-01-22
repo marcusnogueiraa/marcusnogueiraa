@@ -25,9 +25,11 @@
 
 ## 📈 **GitHub Statistics**
 <div>
+   <img width="50%"src="https://streak-stats.demolab.com?user=marcusnogueiraa&theme=dracula" />
+</div>
+<div>
    <a href="https://github.com/marcusnogueiraa">
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusnogueiraa&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="120em" src="https://streak-stats.demolab.com?user=marcusnogueiraa&theme=dracula" />
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcusnogueiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
