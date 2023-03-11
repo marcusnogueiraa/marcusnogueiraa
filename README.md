@@ -52,6 +52,21 @@
    <a href="https://instagram.com/m4rcusnogu3ir4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div/>
 
+## marcusnogueira.py
+```py
+class Marcus:
+
+    def __init__(self):
+      self.dev_since = 2016
+      self.best_language = "Python"
+
+    def code():
+        ...
+
+    def sleep():
+        ...
+```
+
 ## **Thanks for reading this far!! S2**<br/>
 <img src="https://media2.giphy.com/media/3o6Mb9rUQ5v4ZnBbzO/giphy.gif?cid=790b76110776fb7d0a9c28ffeb289c213502a1f0d7869d79&rid=giphy.gif&ct=g">
 
