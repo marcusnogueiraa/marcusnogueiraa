@@ -2,7 +2,7 @@
 
 🙋‍♂️ **Welcome to my GitHub repository! I would like to introduce me:**<br/>
 - 👨🏼‍🎓I'm currently graduating in Computer Engineering at the Federal University of Ceará (UFC). (2022 - 2026)
-- 🌱 Focusing studies, at the moment, on IoT Programming, Software Engineering and Data Engineering.
+- 🌱 Focusing studies, at the moment, on IoT Programming, Software Engineering and Competitive Programming.
 - 😄 I'm currently interning at FDR.
 
 ## 🔭 **Mastered Technologies and Tools**<br/>
