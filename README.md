@@ -29,26 +29,10 @@
 </div>
 
 ## 🔭 **Technologies and Tools**<br/>
-<div class="image-container">
-   <a href="https://babeljs.io/" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png"/></a>
-   <a href="https://getbootstrap.com/" target="_blank"><img height="40em" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="40em" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/c-program-icon.png"/></a>
-  <a href="https://cplusplus.com/" target="_blank"><img height="40em" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img height="40em" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img height="40em" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"/></a>
-  <a href="https://expressjs.com/pt-br/" target="_blank"><img height="40em" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img height="40em" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img height="40em" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"/></a>
-  <a href="https://www.java.com/" target="_blank"><img height="40em" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></a>
-  <a href="https://www.w3schools.com/js/" target="_blank"><img height="40em" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a>
-   <a href="https://www.mysql.com/" target="_blank"><img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
-  <a href="https://nodejs.org/en" target="_blank"><img height="40em" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png"/></a>
-   <a href="https://www.postman.com/" target="_blank"><img height="40em" src="https://www.svgrepo.com/download/354202/postman-icon.svg"/></a>
-  <a href="https://www.python.org/" target="_blank"><img height="40em" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></a>
-  <a href="https://www.qt.io/" target="_blank"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/2560px-Qt_small.svg.png"/></a>
-  <a href="https://sass-lang.com/" target="_blank"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"/></a>
-   <a href="https://webpack.js.org/" target="_blank"><img height="40em" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png"/></a>
+<div align="center">
+ <p align="center">
+   <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,django,express,git,html,java,js,mongodb,mysql,nodejs,postman,py,qt,sass,sqlite,selenium" />
+ </p>
 </div> 
 
 ## **Thanks for reading this far!! S2**<br/>
