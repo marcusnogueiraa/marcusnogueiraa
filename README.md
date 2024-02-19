@@ -31,7 +31,7 @@
 ## 🔭 **Technologies and Tools**<br/>
 <div align="center">
  <p align="center">
-   <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,django,express,flask,git,html,java,js,mongodb,mysql,nodejs,postman,py,qt,sass,sqlite,selenium,typescript" />
+   <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,django,express,fastapi,flask,git,html,java,js,linux,md,mongodb,mysql,nodejs,postgres,postman,py,qt,sass,sqlite,selenium,spring,typescript,webpack" />
  </p>
 </div> 
 
