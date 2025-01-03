@@ -30,7 +30,7 @@
 ## 🔭 **Technologies and Tools**<br/>
 <div align="center">
  <p align="center">
-   <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,django,docker,express,fastapi,flask,git,html,java,js,linux,md,mongodb,mysql,nodejs,postgres,postman,py,qt,redis,sass,sqlite,selenium,spring,typescript,webpack" />
+   <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,docker,firebase,git,gradle,graphql,hibernate,java,latex,linux,maven,md,mongodb,nginx,nodejs,postgres,postman,py,redis,sass,selenium,spring,sqlite,typescript,ubuntu,vim,vue,windows" />
  </p>
 </div> 
 
