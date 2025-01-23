@@ -27,6 +27,9 @@
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcusnogueiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## 📊 WakaTime Stats
+ [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=d7f79dff-4aac-472f-bf8a-6049c608d685&layout=compact&theme=dark)](https://wakatime.com/@d7f79dff-4aac-472f-bf8a-6049c608d685)
+
 ## 🔭 **Technologies and Tools**<br/>
 <div align="center">
  <p align="center">
